@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = '0.8.7'
 
   s.name              = 'bungler'
-  s.version           = '0.0.1'
+  s.version           = '0.0.2'
   s.date              = '2012-06-07'
   s.rubyforge_project = 'bungler'
 
