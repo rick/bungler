@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
   # = MANIFEST =
   s.files = %w[
-    README
+    README.md
     bungler.gemspec
   ]
 end
